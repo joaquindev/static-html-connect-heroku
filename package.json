@@ -23,5 +23,8 @@
   "gitHead": "bc965fcb1cbc6727c95fe66ad99be4f1434797cb",
   "dependencies": {
     "connect": "~2.12.0"
+  }, 
+  "engines": {
+    "node": "0.10.x"
   }
 }
